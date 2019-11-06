@@ -1,0 +1,23 @@
+{
+  "name": "@paraboly/pwc-readme-boilerplate",
+  "version": "0.0.1",
+  "description": "Readme boilerplate for Paraboly Web Component Libraries",
+  "keywords": [
+    "FreakyCoder",
+    "freakycoder",
+    "kuray",
+    "Kuray",
+    "react",
+    "react-native",
+    "javascript",
+    "ui-lib",
+    "rn"
+  ],
+  "homepage": "https://www.paraboly.com",
+  "bugs": "https://github.com/Paraboly/pwc-readme-boilerplate/issues",
+  "main": "./lib/src/index.js",
+  "repository": "git@github.com:Paraboly/pwc-readme-boilerplate.git",
+  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {}
+}
