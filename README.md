@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img alt="WebComponent PWC Animated Checkbox" src="assets/example.png" />
+  <img alt="WebComponent PWC Animated Checkbox" src="assets/JSLibraryBoilerplate.png" />
 </p>
 
 ## [Live Codepen Example](https://codepen.io/wrathchaos/pen/dyyvRzM)
